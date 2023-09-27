@@ -1,0 +1,12 @@
+{
+  "name": "js-variables",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "variables.js",
+  "scripts": {
+    "test": "node variables.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
