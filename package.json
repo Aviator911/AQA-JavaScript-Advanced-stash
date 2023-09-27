@@ -1,0 +1,14 @@
+{
+  "name": "js-operators-coercion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "operatorsAndCoercion.js",
+  "scripts": {
+    "test": "node js-operators-coercion"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
